@@ -33,4 +33,10 @@ The second task focused on **optimizing audience retention**. The goal was to en
    
 2. **Impact Measurement**:
    - After script optimization, analyzed the change in audience retention by measuring viewer drop-off points and re-engagement after implementing the improved scripts.
-   - The result was a significant increase in viewer engagement and retention, leading to higher overall performance for videos.
+   - The result was a significant increase in viewer engagement and retention, leading to higher overall performance for videos.  
+Before:  
+![Screenshot 2025-03-12 142439](https://github.com/user-attachments/assets/a8aa2b81-da43-422d-b652-588bfc1314c8)  
+  
+After:  
+![image](https://github.com/user-attachments/assets/925adf02-c198-40d9-8f61-5fa685608ede)
+
