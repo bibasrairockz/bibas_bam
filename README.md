@@ -9,6 +9,7 @@ The project is divided into two main tasks:
 
 ## Task 1: Video Views Prediction
 In this task, the goal was to develop a **machine learning pipeline** that predicts the number of views a video will receive based on various key video features such as title, description, tags, video length, and past performance.
+![image](https://github.com/user-attachments/assets/cd4d20b8-7924-4e9b-a054-b9582a3aca5f)
 
 ### Steps:
 1. **Data Collection and Feature Engineering**:
